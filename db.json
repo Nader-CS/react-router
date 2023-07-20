@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Nader",
+      "title": "c#",
+      "img": "https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy"
+    },
+    {
+      "author": "Nader",
+      "title": "Python",
+      "img": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 2
+    },
+    {
+      "author": "Mohamed",
+      "title": "HTML",
+      "img": "https://images.pexels.com/photos/1181703/pexels-photo-1181703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 3
+    },
+    {
+      "author": "Abdo",
+      "title": "Javascript",
+      "img": "https://media.istockphoto.com/id/1156837650/photo/javascript-code-computer-language-programming-internet-text-editor-components-display-screen.webp?s=1024x1024&w=is&k=20&c=t9nCzOBHOuu3W7k02i6uPblV2TGW_payWtEsahZECns=",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 4
+    },
+    {
+      "author": "Omar",
+      "title": "Programming is fun",
+      "img": "https://images.pexels.com/photos/102061/pexels-photo-102061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 5
+    },
+    {
+      "author": "nader",
+      "title": "Data structure is fun",
+      "img": "https://images.pexels.com/photos/2911364/pexels-photo-2911364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 6
+    },
+    {
+      "author": "Nader",
+      "title": "React is fun",
+      "img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dumy dumy dumy dumy dumy dumy dumy dumy",
+      "id": 7
+    },
+    {
+      "author": "Nader",
+      "title": "Fruits",
+      "img": "https://images.pexels.com/photos/1132040/pexels-photo-1132040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "dummy dummy  dummy dummy dummy2 ",
+      "id": 8
+    },
+    {
+      "author": "asdasd",
+      "title": "adasd",
+      "img": "qwd'qwld",
+      "description": "dadwe[fkwe",
+      "id": 9
+    }
+  ]
+}
